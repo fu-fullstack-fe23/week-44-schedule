@@ -19,7 +19,7 @@ Vi tittar även på skillnaden på statiskt typat språk och ett dynamiskt typat
 ## Resurser
 
 ### Presentationer
-* [28 okt, Kursintro](https://docs.google.com/presentation/d/1h_AZq_HH-i8O63R87fyxknLDdIYXVRLR/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [28 okt, Kursintro](https://docs.google.com/presentation/d/1CcIgMH9BggKA2Jrs6e44mbNHVbEDLSL7/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [28 okt, TypeScript Intro](https://docs.google.com/presentation/d/1h_AZq_HH-i8O63R87fyxknLDdIYXVRLR/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 
