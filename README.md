@@ -35,6 +35,7 @@ Vi tittar även på skillnaden på statiskt typat språk och ett dynamiskt typat
 * [TypeScript Tutorial for beginners](https://www.youtube.com/watch?v=d56mG7DezGs&t=1203s)
 
 ### Länkar
+* [State of Frontend](https://tsh.io/state-of-frontend/)
 * [Getting started with TypeScript](https://drive.google.com/file/d/0B98lNJRzLBMST1BZcm1CbGdEc1k/view?usp=sharing&resourcekey=0-JqJ5WaSSh7uLcScFKqMpxg)
 
 ### Övningar
