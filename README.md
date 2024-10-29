@@ -26,7 +26,9 @@ Vi tittar även på skillnaden på statiskt typat språk och ett dynamiskt typat
 ### Inspelade föreläsningar
 * [Konfigurering med Christoffer](https://vimeo.com/777907090/f9f008f064)
 * [Intro till TypeScript med Christoffer](https://vimeo.com/777906914/f9fc0538d7)
-* [29 okt, TypeScript Intro]()
+* [29 okt, Kursintro](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EV-V-55xlmVHkLNe0-_Fe04Bxj2KlhZYbdyZjlaWZAEkCA?e=0CAEyN)
+* [29 okt, TypeScript Intro](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EYdtyI7g4BxDleOrLD5R2CYB-yNVn__b8hAupN_i9yondg?e=19jBXs)
+* [29 okt, TypeScript Kodexempel](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EXDjI7BgxOdNrTislhBIbOgB_uiBTj_z8qaEcQgaPHkZww?e=nOMAhX)
 
 ### Lektionsrepon
 * [29 okt, TypeScript Intro](https://github.com/fu-fullstack-fe23/week-44-lecture-typescript-basics)
