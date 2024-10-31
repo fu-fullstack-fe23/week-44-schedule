@@ -32,8 +32,12 @@ Vi tittar även på skillnaden på statiskt typat språk och ett dynamiskt typat
 * [Statiska typer med Christoffer](https://vimeo.com/777907196/62dc6d6b03?share=copy)
 * [Interfaces med Christoffer](https://vimeo.com/780124978/077297b541)
 
+* [31 okt, Types & Interfaces + Dice Game](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/ETtKj4-8izpNtDl3d-NfP5kB3VNnqNxsRs8eahuHqVlg2w?e=eBswMA)
+* [31 okt, Pokemon Page](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe23Karlstad/EcKNVNruOVxBqaOpiLeMu_gBay-oNaVtxlgaJBzctCu6iA?e=vfmQ5t)
+
 ### Lektionsrepon
 * [29 okt, TypeScript Intro](https://github.com/fu-fullstack-fe23/week-44-lecture-typescript-basics)
+* [31 okt, Types & Interfaces Code Along](https://github.com/fu-fullstack-fe23/week-44-lecture-code-along)
 
 ### Filmer
 * [TypeScript Tutorial for beginners](https://www.youtube.com/watch?v=d56mG7DezGs&t=1203s)
